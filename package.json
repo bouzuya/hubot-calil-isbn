@@ -1,6 +1,6 @@
 {
   "name": "hubot-calil-isbn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display http://calil.jp/book/<isbn>",
   "main": "index.js",
   "scripts": {
